@@ -4,7 +4,7 @@
   - publishImageConfig:
       dockerfilePath: ./Dockerfile
       buildContext: .
-      tag: sdelcampo/example-ci:v1
+      tag: sdelcampo/example-ci:latest
       pushRemote: true
       registry: index.docker.io
 timeout: 60
