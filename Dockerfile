@@ -1,3 +1,3 @@
-FROM httpd:latest
+FROM postgres:latest
 
 
